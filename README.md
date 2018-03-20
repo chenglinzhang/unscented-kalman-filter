@@ -1,6 +1,6 @@
 ## 2. Unscented Kalman Filter Project
 
-## Self-Driving Car Engineer Nanodegree Program - Term 2
+### Self-Driving Car Engineer Nanodegree Program - Term 2
 
 This project utilizes an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
