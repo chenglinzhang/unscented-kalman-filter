@@ -1,8 +1,8 @@
-# 2. Unscented Kalman Filter Project
+## 2. Unscented Kalman Filter Project
 
-Self-Driving Car Engineer Nanodegree Program - Term 2
+## Self-Driving Car Engineer Nanodegree Program - Term 2
 
-In this project utilize an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
+This project utilizes an Unscented Kalman Filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. 
 
 [//]: # (Image References)
 [image1]: ./images/screenshot.png
@@ -29,7 +29,7 @@ The result looks like the following on the simulator:
 
 ![alt text][image1]
 
-## Other Important Dependencies
+### Other Important Dependencies
 * cmake >= 3.5
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
@@ -41,7 +41,7 @@ The result looks like the following on the simulator:
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 
-## Basic Build Instructions
+### Basic Build Instructions
 
 1. Clone this repo.
 2. Make a build directory: `mkdir build && cd build`
@@ -49,7 +49,7 @@ The result looks like the following on the simulator:
 4. Run it: `./UnscentedKF` Previous versions use i/o from text files.  The current state uses i/o
 from the simulator.
 
-## Code Style
+### Code Style
 
-Please stick to [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html) as much as possible.
+Follow [Google's C++ style guide](https://google.github.io/styleguide/cppguide.html) as much as possible.
 
