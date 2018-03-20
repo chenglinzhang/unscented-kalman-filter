@@ -1,4 +1,4 @@
-# 2. Unscented Kalman Filter Project Starter Code
+# 2. Unscented Kalman Filter Project
 
 Self-Driving Car Engineer Nanodegree Program - Term 2
 
@@ -24,6 +24,10 @@ OUTPUT: values provided by the c++ program to the simulator
 ["rmse_vx"]
 ["rmse_vy"]
 ```
+
+The result looks like the following on the simulator:
+
+![alt text][image1]
 
 ## Other Important Dependencies
 * cmake >= 3.5
